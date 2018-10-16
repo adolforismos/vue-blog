@@ -10,4 +10,5 @@ fields:
   name: date
   label: date
 pages:
+- docs/first-doc.md
 - blog/desde-el-blog.md
